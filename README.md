@@ -8,5 +8,7 @@
 
 [Aldorithm for even and odd](algorithmforevenorodd)
 
+[Even and odd](evenorodd.rap)
+
 
 
