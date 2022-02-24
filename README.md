@@ -34,6 +34,23 @@
 
 [primerotation flowchart](sa1(primenumber-rotation.rap).rap)
 
+## summative programs 
+[factorial](sa1.1(factorial).c)
+
+[case change](sa1.2(casechange).c)
+
+[collatz sequence](sa1.3(collatzsequence).c)
+
+[calculattor](sa1.4(calculator).c)
+
+[fibonacci sequence](sa1.5(fibonacci).c)
+
+[fibonaccisum](sa1.6(fibonaccisum).c)
+
+[primenumber](sa1.7(primenumber-rotation).c)
+
+[actualfactorial](sa1.8(actualfactorial).c)
+
 ## practice codes 
 [election commision](Electioncommission.c)
 
