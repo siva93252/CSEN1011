@@ -20,43 +20,43 @@
 [4 net salary](netsalary.c)
 
 ## Summative Flowcharts
-[actualfactor flow chart](sa1(actualfactorflowchart.rap).rap)
+[1 actualfactor flow chart](sa1(actualfactorflowchart.rap).rap)
 
-[calculator flow chart](sa1(calculator-flowchart.rap).rap)
+[2 calculator flow chart](sa1(calculator-flowchart.rap).rap)
 
-[changecase flow chart](sa1(changingcase-flowchart.rap).rap)
+[3 changecase flow chart](sa1(changingcase-flowchart.rap).rap)
 
-[factor flow chart](sa1(factor-flowchart.rap).rap)
+[4 factor flow chart](sa1(factor-flowchart.rap).rap)
 
-[fibonaccisum flow chart](sa1(fibo-sum.rap).rap)
+[5 fibonaccisum flow chart](sa1(fibo-sum.rap).rap)
 
-[fibonacci flow chart](sa1(fibonacci-flowchart.rap).rap)
+[6 fibonacci flow chart](sa1(fibonacci-flowchart.rap).rap)
 
-[primerotation flowchart](sa1(primenumber-rotation.rap).rap)
+[7 primerotation flowchart](sa1(primenumber-rotation.rap).rap)
 
 ## summative programs 
-[factorial](sa1.1(factorial).c)
+[1 factorial](sa1.1(factorial).c)
 
-[case change](sa1.2(casechange).c)
+[2 case change](sa1.2(casechange).c)
 
-[collatz sequence](sa1.3(collatzsequence).c)
+[3 collatz sequence](sa1.3(collatzsequence).c)
 
-[calculattor](sa1.4(calculator).c)
+[4 calculattor](sa1.4(calculator).c)
 
-[fibonacci sequence](sa1.5(fibonacci).c)
+[5 fibonacci sequence](sa1.5(fibonacci).c)
 
-[fibonaccisum](sa1.6(fibonaccisum).c)
+[6 fibonaccisum](sa1.6(fibonaccisum).c)
 
-[primenumber rotation](sa1.7(primenumber-rotation).c)
+[7 primenumber rotation](sa1.7(primenumber-rotation).c)
 
-[actual factorial](sa1.8(actualfactorial).c)
+[8 actual factorial](sa1.8(actualfactorial).c)
 
 ## practice codes 
-[election commision](Electioncommission.c)
+[1 election commision](Electioncommission.c)
 
-[ipl matches](iplmatches.c)
+[2 ipl matches](iplmatches.c)
 
-[traintickets](traintickets.c)
+[3 traintickets](traintickets.c)
 
 
 
