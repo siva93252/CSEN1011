@@ -6,3 +6,7 @@
 
 [remainder program](Remainderprogram.c)
 
+[Aldorithm for even and odd](algorithmforevenorodd)
+
+
+
