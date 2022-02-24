@@ -26,6 +26,8 @@
 
 [changecase flow chart](sa1(changingcase-flowchart.rap).rap)
 
+[collatzsequence flow chart](sa1(collatz seq-flowchart.rap).rap)
+
 [factor flow chart](sa1(factor-flowchart.rap).rap)
 
 [fibonaccisum flow chart](sa1(fibo-sum.rap).rap)
@@ -33,6 +35,14 @@
 [fibonacci flow chart](sa1(fibonacci-flowchart.rap).rap)
 
 [primerotation flowchart](sa1(primenumber-rotation.rap).rap)
+
+## practice codes 
+[election commision](Election commission.c)
+
+[ipl matches](iplmatches.c)
+
+[traintickets](traintickets.c)
+
 
 
 
