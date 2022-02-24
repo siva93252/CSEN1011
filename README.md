@@ -3,3 +3,6 @@
 [Simple Interest](simpleinteresr.c)
 
 [Netsalary](netsalary.c)
+
+[remainder program](Remainderprogram.c)
+
