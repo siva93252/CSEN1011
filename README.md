@@ -47,9 +47,9 @@
 
 [fibonaccisum](sa1.6(fibonaccisum).c)
 
-[primenumber](sa1.7(primenumber-rotation).c)
+[primenumber rotation](sa1.7(primenumber-rotation).c)
 
-[actualfactorial](sa1.8(actualfactorial).c)
+[actual factorial](sa1.8(actualfactorial).c)
 
 ## practice codes 
 [election commision](Electioncommission.c)
