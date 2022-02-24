@@ -26,7 +26,7 @@
 
 [changecase flow chart](sa1(changingcase-flowchart.rap).rap)
 
-[collatzsequence flow chart] (sa1(collatz seq-flowchart.rap).rap)
+[collatzsequence flow chart] (sa1(collatzseq-flowchart.rap).rap)
 
 [factor flow chart](sa1(factor-flowchart.rap).rap)
 
