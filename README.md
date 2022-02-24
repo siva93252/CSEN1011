@@ -20,17 +20,17 @@
 [4.net salary](netsalary.c)
 
 ## Summative Flowcharts
-[1.actualfactor flow chart](sa1(actualfactorflowchart.rap).rap)
+[1.actualfactor flowchart](sa1(actualfactorflowchart.rap).rap)
 
-[2.calculator flow chart](sa1(calculator-flowchart.rap).rap)
+[2.calculator flowchart](sa1(calculator-flowchart.rap).rap)
 
-[3.changecase flow chart](sa1(changingcase-flowchart.rap).rap)
+[3.changecase flowchart](sa1(changingcase-flowchart.rap).rap)
 
-[4.factor flow chart](sa1(factor-flowchart.rap).rap)
+[4.factor flowchart](sa1(factor-flowchart.rap).rap)
 
-[5.fibonaccisum flow chart](sa1(fibo-sum.rap).rap)
+[5.fibonaccisum flowchart](sa1(fibo-sum.rap).rap)
 
-[6.fibonacci flow chart](sa1(fibonacci-flowchart.rap).rap)
+[6.fibonacci flowchart](sa1(fibonacci-flowchart.rap).rap)
 
 [7.primerotation flowchart](sa1(primenumber-rotation.rap).rap)
 
