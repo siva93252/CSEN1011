@@ -1,23 +1,23 @@
 # CSEN1011
 ## module 1
-[Simple Interest](simpleinteresr.c)
+[1 Simple Interest](simpleinteresr.c)
 
-[Netsalary](netsalary.c)
+[2 Netsalary](netsalary.c)
 
-[remainder program](Remainderprogram.c)
+[3 remainder program](Remainderprogram.c)
 
-[Aldorithm for even and odd](algorithmforevenorodd)
+[4 Aldorithm for even and odd](algorithmforevenorodd)
 
-[Even and odd](evenorodd.rap)
+[5 Even and odd](evenorodd.rap)
 
 ## module 2
-[arm strong](armstrong.c)
+[1 arm strong](armstrong.c)
 
-[floydstriangle](floydstriangle.exe)
+[2 floydstriangle](floydstriangle.exe)
 
-[fullpyramid](fullpyramid.c)
+[3 fullpyramid](fullpyramid.c)
 
-[net salary](netsalary.c)
+[4 net salary](netsalary.c)
 
 ## Summative Flowcharts
 [actualfactor flow chart](sa1(actualfactorflowchart.rap).rap)
