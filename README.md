@@ -2,7 +2,7 @@
 ## module 1
 [1.Simple Interest](simpleinteresr.c)
 
-[2.Net salary](netsalary.c)
+[2.marks average](netsalary.c)
 
 [3.remainder program](Remainderprogram.c)
 
